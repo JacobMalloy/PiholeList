@@ -2853,6 +2853,7 @@ banners.playocio.com
 banners.toeto.com
 banner-storage.fo.ru
 banners.utilo.nl
+bannersweb.s3.amazonaws.com
 banners.zl.lv
 banner.telefragged.com
 banner.terminal.hu
@@ -21223,7 +21224,6 @@ qos.video.yimg.com
 qpelznewstar.com
 qpxepj.com
 qq167.com
-qq2.co
 qq6500.com
 qqesldxiaxnxgh.com
 qqhuhu.com
