@@ -4505,7 +4505,6 @@ blailays.pro
 blamads-assets.s3.amazonaws.com
 blamper-novosti.ru
 blamper-portal.ru
-blamper.ru
 blancoyhogar.com.ar
 blastsruffs.co.za
 blauzsuzsa.square7.ch
