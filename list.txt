@@ -7430,6 +7430,7 @@ cookies.forbes.pl
 cookies.innershed.co.uk
 cookies.leadplace.fr
 cookies.livepartners.com
+cookies.nos.nl
 cookies.reedbusiness.nl
 cookies.unidadeditorial.es
 cookietracker.cloudapp.net
@@ -15640,6 +15641,7 @@ hackzonne.net
 hackzs.com
 hackz-world.com
 hacomunicacion.com
+hades.qyer.com
 haditl.gq
 hadnsomshopper.com
 hadoman.net
