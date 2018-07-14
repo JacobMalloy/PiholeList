@@ -511,7 +511,6 @@ adbn.ru
 adbomb.ru
 adbon.us
 adbot.tw
-adbox.sina.com.cn
 ad.bwise.ch
 adc.9news.com.au
 ad.ca.doubleclick.net
@@ -2194,6 +2193,7 @@ ankitjindia.com
 ankoras.com
 ankusamarts.com
 an.media-active.ru
+anmeilai.net
 anmoltravelservices.com
 ann5.net
 anna-mc.ru
@@ -3041,7 +3041,6 @@ assets.wetransfer.net.debrawhitingfoundation.org
 asset.wetransfer.net.debrawhitingfoundation.org
 assexyas.com
 assigned.cn
-as.sinahk.net
 assistance-free.fr-post.com
 assistance-freemobile-comptespars.com
 assistantbilling.in
@@ -3216,7 +3215,6 @@ audit.macworld.co.uk
 audit.median.hu
 audit.pcadvisor.co.uk
 audubonlandscapes.com
-audycje.tokfm.pl
 augami.net
 auhtsiginsessioniduserestbayu.3eeweb.com
 auifhejgrg.betachiomega.org
@@ -21717,6 +21715,7 @@ marketing.alibaba.com
 marketing.al.ly
 marketinghub.hp.com
 marketing.kalahari.net
+marketing.net.jumia.com.ng
 marketing.nodesource.com
 marketingont.org
 marketingouroturismo.com.br
@@ -26095,6 +26094,7 @@ pictures.myownnewpics.com
 pictures-screens.net
 pictures.zooplus.com
 pidarunki.ru
+pieaa.com
 piecehigh.net
 pieceleft.net
 piedmontranches.com
