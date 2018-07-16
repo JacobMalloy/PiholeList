@@ -20892,6 +20892,7 @@ logdev.openload.co
 log.flight.qunar.com
 logger.dailymotion.com
 logger.ivi.ru
+logger.nerdwallet.com
 logger.rm.uol.com.br
 logger.snackly.co
 logger.sociablelabs.com
