@@ -7380,7 +7380,6 @@ colinjwhite.com
 collanetti.com
 collect2.sas.com
 collect.finanzen.net
-collect.igodigital.com
 collection.acromas.com
 collection.theaa.com
 collectivedesigns.net
@@ -15526,6 +15525,7 @@ gov-returns.top
 gov.uk.claim-tax-refund.authc.pw
 gov.uk.claim-tax-refund.updater09.su
 gov.uk-revenue-customs.sytcbdata.com
+gowin01.com
 gowowapp.com
 gp0hefr.com
 gpalmerandassociates.com
@@ -32126,6 +32126,7 @@ ssl-lognewok.com
 ssl-paypal.de-east-account-verification-center.xyz
 ssl-paypal.safer-security-and-safe-ty-center.xyz
 ssl-stats.wordpress.com
+ssmuse1314.cn
 ssmuye.com
 s.sniphub.com
 ssnkumarhatti.com
@@ -34598,6 +34599,7 @@ tracker-api.my.com
 trackerapi.truste.com
 tracker.azet.sk
 tracker.beezup.com
+tracker.beritagar.id
 tracker.bestshopping.com
 tracker.bt.uol.com.br
 tracker.calameo.com
@@ -39418,6 +39420,7 @@ zwgoca.com
 zwkssb.com
 zwqqrynpvqetydhgbd9w.mafe.edu.co
 zws.avvo.com
+zx573.cn
 zxadhosting.it
 zxciuniqhweizsds.com
 zxhymh.com
