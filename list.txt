@@ -9278,6 +9278,7 @@ d3player.com
 d3pob6t6w1ul0e.cloudfront.net
 d3pphfzjkpjgfn.cloudfront.net
 d3prygw1dnamj9.cloudfront.net
+d3pvcolmug0tz6.cloudfront.net
 d3q2dpprdsteo.cloudfront.net
 d3q33rbmdkxzj.cloudfront.net
 d3qk9u6c2k2cid.cloudfront.net
@@ -14877,7 +14878,6 @@ gateway-03.com
 gateway-04.com
 gateway.fortunelounge.com
 gatewayhimalaya.com
-gateway.reddit.com
 gateways.s3.amazonaws.com
 gatgirl.com
 gather.corp.workgroup-appconnect.com
@@ -16178,6 +16178,7 @@ gzknx.com
 gzktpf.com
 gzlykj.cn
 gzmjnx.cn
+gzm.xzbu.com
 gzmzts.com
 gznsyh.com
 gzqell.com
@@ -19702,6 +19703,7 @@ jsn.st02.net
 jspkgj.com
 js.shangxueba.com
 jstaikos.com
+jstdjq.com
 js.theprimead.co.kr
 jstqcal.com
 jstzpcty.com
