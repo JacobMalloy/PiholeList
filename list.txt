@@ -1506,6 +1506,7 @@ alertgooqle.com
 alerts.account.capital-one.com.secure.insidmaldesign.com
 alert-secure-notification.ga
 alert.secure.wells-fargo.checking.account.reinomusical.com
+alerts.ndtv.com
 alerts-system00.000webhostapp.com
 alerts.thedailystar.net
 alert-virus-infection.com
@@ -5397,6 +5398,7 @@ b.thefile.me
 btig3di.com
 btightyuild.ga
 bt.ilsemedia.nl
+btmp4.net
 btn.clickability.com
 btn.onlylady.com
 btn.pchome.net
@@ -11862,7 +11864,10 @@ ensenadasportfishing.com
 ensepare.com
 ensis.eng.br
 enslinhomes.com
+ens.luzernerzeitung.ch
+ens.nzz.ch
 ensscapital.com
+ens.tagblatt.ch
 ent1.12584.cn
 ent7.fc-training.co.uk
 enteder.com
@@ -13667,6 +13672,7 @@ fmi-info-apple.xyz
 fmi-location-support.com
 fmoroverde.com
 fmpride.com
+fmu1qrtjoamc.pro
 fmusive.ru
 fndemolitiongroup.com
 fnkjj.com
@@ -25216,6 +25222,7 @@ notifications-team2017.000webhostapp.com
 notificationyourspage.cf
 notificatiopages.cf
 notificetionwem.fr.nf
+notifiche.secoloditalia.it
 notify-facebook-account.com
 notify.hindustantimes.com
 notiluxe.fr
@@ -27338,7 +27345,6 @@ platinummotionmedia.com
 platinum-net1.com
 plattform.deruwia.de
 plawdcs.net
-playad.xjmg.com
 play-beta.com
 playcapt.com
 playdowncenter.com
@@ -29960,6 +29966,7 @@ rutor.ml
 rutor.net.pl
 rutor.org.ua
 rutors.tk
+rutor.su
 rutracker.eu
 rutracker.eu.org
 rutracker.org.pl
