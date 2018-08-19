@@ -30,9 +30,9 @@ a1.firstgw.com
 a1.gexing.me
 a1hacks.com
 a1.huanqiumil.com
-a1.ikafan.com
 a1.juzih.com
 a1.lrytas.lt
+a1.mingyihui.net
 a1.qizhihaotian.com
 a1.qqjay.com
 a1sec.com.au
@@ -54,6 +54,7 @@ a33bb68b84b.com
 a353364ec1bd19a.com
 a35c92d96766745.com
 a3designs.com.au
+a3.ikafan.com
 a3p4.net
 a437d8aa14b.com
 a43a56f8.000webhostapp.com
@@ -70,7 +71,6 @@ a6f845e6c37b2833148.com
 a75-10-so.ssl.cdn13.com
 a.75111.com
 a807c7c77664fb7803c.com
-a.80982.org
 a907907.com
 a9377j.com
 a9b290fb964.com
@@ -740,7 +740,6 @@ admulti.ru
 ad.munion.in
 admx.baixing.com
 adm.xmfish.com
-ad.mylook.ee
 adm.zbinfo.net
 adn.adneo.co.kr
 ad.nakanune.ru
@@ -839,7 +838,6 @@ adrs.sdo.com
 adru.net
 ad.r.worldssl.net
 ads2.evz.ro
-ads2.opensubtitles.org
 ads2rtb.com
 ads3.adinc.co.kr
 ads83.com
@@ -1402,6 +1400,7 @@ a.jango.com
 ajaxcdn.org
 ajaxfiles.net
 ajbhsh.edu.bd
+a.jing55.com
 ajjhm.com
 ajkelra.com
 ajkzd9h.com
@@ -2502,7 +2501,6 @@ app-epicgamespaypl3218321.com
 app-epicgamespaypl516667421.com
 app-epicgamespplrefund.com
 appetencyelain.com
-appever.com
 app-facebook-marketplace-93423942.xyz
 app-fill2229067.000webhostapp.com
 appgamecheats.biz
@@ -3877,7 +3875,6 @@ banner-madai-com.s3.amazonaws.com
 bannerms54489.com
 banner.orizzontescuola.it
 banner.ringofon.com
-banners.adnetmedia.ee
 banners.adultfriendfinder.com
 banners.beevpn.com
 banners.beted.com
@@ -4140,7 +4137,6 @@ bd1.52che.com
 bd1.dopa.com
 bd1.flfgw.cn
 bd1.heiguang.cn
-bd1.jobui.com
 bd1.nxing.cn
 bd1.szhk.com
 bd1.wowoqq.com
@@ -4151,6 +4147,7 @@ bd3.chuiyue.com
 bd7h64j87d4364gf6hd8473.000webhostapp.com
 bdad.gaotie.net
 bdaffiliates.co
+bdasd.chinabig.com.cn
 bdasd.wmxa.cn
 bdbrandsale.com
 bdcelectricalservices.com
@@ -6155,13 +6152,11 @@ cdn1.anime-stream24.com
 cdn1.lp.saboom.com
 cdn1.mysearchresults.com
 cdn.adultsadv.com
-cdn.advertserve.com
 cdn-analytics.ladmedia.fr
 cdnbd.com
 cdneurope.com
 cdn.investingchannel.com
 cdnny.com
-cdn.onedmp.com
 cdn.onesignal.com
 cdn-partners-references.lesoir.be
 cdnport.ru
@@ -6316,7 +6311,6 @@ cfbdhcwm.com
 cfboo.com
 cfbrr.com
 cfcgl.com
-cfcglx.com
 cfcn.allocine.net
 cfcpart7-impots-gov.com
 cfdanet.com
@@ -7880,7 +7874,6 @@ content.directadvert.ru
 content.livesportmedia.eu
 content.relax.ru
 content.streamplay.to
-content.yieldmanager.edgesuite.net
 content.zontera.com
 conteresse.com
 conteresso.com
@@ -8155,7 +8148,6 @@ cpcv.cc
 cpdsmart.com
 c.perlentaucher.de
 cp.greenxf.cn
-c.phb123.com
 cpi.com.my
 cpi-istanbul.com
 cpimtelangana.com
@@ -8173,8 +8165,8 @@ cpmterra.com
 cppgf.com
 cpphotostudio.de
 cpplexports.com
+cp.qbaobei.com
 cprbr.com
-cpr.jandan.net
 cpro.baidu.com
 cpro.baidustatic.com
 cpro.zol.com.cn
@@ -9591,7 +9583,6 @@ datenvergleich.com
 dateset.upgradeyoursystem24.com
 dathackhaha.com
 dating-exchange.com
-dating.lt
 datingsales.com
 dating-site-links.com
 datingverify.org
@@ -10110,6 +10101,8 @@ dgpp7fq3iorb.cloudfront.net
 dgpzx.com
 dgvucud.com
 dgxzwj.com
+d.gz2010.cn
+d.gzpinda.com
 dh0uktvqfaomb.cloudfront.net
 dh2xbuwg.com
 dh956.com
@@ -10440,6 +10433,7 @@ dlyazdorovia.ru
 dlzjdesign.com
 dlzm790g.com
 dm0acvguygm9h.cloudfront.net
+dm.15tianqi.com
 dm1.yongkao.com
 dm1.zjydt.com
 dm.388g.cc
@@ -10464,7 +10458,7 @@ dm.gucheng.com
 dm.haojuzi.net
 dm.hugolescargot.com
 dm.huochepiao.com
-d.mingyihui.net
+dm.ishuo.cn
 dm.jb51.net
 dm.journaldesfemmes.com
 dm.journaldunet.com
@@ -12419,7 +12413,6 @@ exitostudio.com.br
 ex.mdtoday.co.kr
 exmovie.xyz
 ex-news.net
-exoclick.com
 exonews.ru
 exorcist.thenudistnetwork.com
 exordial-replenishm.000webhostapp.com
@@ -14993,7 +14986,6 @@ g-dent.ru
 gdhdfs.com
 gdhongyu17.cn
 gdhrjn.com
-gd.jqgc.com
 gdoc01.com.ng
 gdoc.nanomidia.com.br
 g-docs.pro
@@ -15328,7 +15320,6 @@ gg86.pinggu.org
 ggaibb.com
 ggaiinasss.com
 ggaimmm.com
-ggamesrevenue.com
 gg.blueidea.com
 ggcode.2345.com
 gg.cs090.com
@@ -15740,7 +15731,6 @@ googleplaygiftcardgenerator.net
 googleplay-store.com
 googleplaystorehack.com
 google.ryantoddrose.com
-googlesyndication.com
 googletagservices.com
 googletakes.com
 googlewebmatesrcentral.com
@@ -16261,6 +16251,7 @@ h9377c.com
 h9579587.bget.ru
 ha8ohfi.top
 haanikaarak.com
+haba1.76e.org
 habaapac.com
 habilitacaodetoken.com.br
 habitatbakersfield.org
@@ -17177,6 +17168,7 @@ hi8.ss.la
 hiad.myweb.hinet.net
 hiad.vmall.com
 hiapchuan.com
+hiapple1.jobui.com
 hibbingnakina.com
 hibe-halkbank.com
 hibe.hibersabun.co.id
@@ -17325,6 +17317,7 @@ hndsecures.com
 hnfpgm.com
 hnhgw.cn
 hnixr.com
+hnlvld1crehqne.ru
 hnpjshop.com
 hnsytgl.com
 hntengyi.com
@@ -18257,12 +18250,12 @@ img2.pengfu.net
 img2.titan007.com
 img.3sjt.com
 img4click.com
+img.80982.org
 img80.net
 img.9duw.com
 imgadsame.liba.com
 img.bankoboev.ru
 imgex.eu
-imgg.mgid.com
 imghd.eu
 imgil.eu
 imglb.yobihost.com
@@ -18832,7 +18825,6 @@ iphonewifihack.com
 ipkoaktualizacjakonta.com
 ipktradis.id
 ipmarte.ru
-i.pmo.ee
 iposhora.com
 ip.pichunter.com
 iprazim-webdesign.com
@@ -18888,7 +18880,6 @@ isbcoaching.com
 isb.ens.tn
 isceponlinesube.com
 i-see.co.zw
-isgroterbeter.com
 ishahguv.com
 ishanvis.com
 isho1xu.top
@@ -19272,6 +19263,7 @@ jazan.azurewebsites.net
 jazancci.org.sa
 jazeegroup.com
 jazzarrangingclass.com
+j.baminw.cn
 jb.dianshu119.com
 jb.ecar168.cn
 jbflil.cn
@@ -19754,6 +19746,7 @@ jscxkj.net
 js.duotegame.com
 jsdx.91xiazai.com
 jsep.net
+js.fc090.com
 jsf.cnlinfo.net
 jsg7mdk.com
 jsgsamanvaya.com
@@ -23213,7 +23206,6 @@ mgcheats.com
 mgfcapital.com.au
 mgldzcls.com
 mgm88tv.com
-mg.mgid.com
 mgmt.pes.edu
 mgogo.ru
 mgraymed.5gbfree.com
@@ -23540,7 +23532,6 @@ mmm-global.gq
 mm-mmm0.paykasabozdurma.xyz
 mmm.theweek.co.uk
 mmobitech.com
-mmoframes.com
 mmogamecrack.com
 mmogamehack.com
 mmohacks.eu
@@ -25731,7 +25722,6 @@ onbkportal.com
 oncapecodwaters.com
 onceambientstore.com
 oncom-info.com
-one.520319.cn
 one.88dus.com
 oneasia.my
 one-bmedia.ru
@@ -25986,6 +25976,7 @@ opertrans.org
 opertures.com
 opfniwx.com
 ophan.guardian.co.uk
+o.phb123.com
 ophie.clanservers.com
 ophistler.pro
 opiopiopi.000webhostapp.com
@@ -26584,7 +26575,6 @@ pawstravelandsafaris.com
 paxful-logins.com
 paxvu1.usa.cc
 pay11.org
-pay4results.ee
 pay838.com
 payabeach.us
 payable.billing-airfryer.com
@@ -27408,6 +27398,7 @@ pk-entertainment.com
 pketred.com
 pkgo.com.ve
 pkjewellery.com.au
+pkk1.zuimeiniwo.com
 pks-setiabudi.or.id
 placadegesso.com.br
 placentiabay.ca
@@ -27823,6 +27814,7 @@ ppoliaaz.com
 ppoofff.000webhostapp.com
 p.porn.fr
 ppout.net
+ppp.jandan.net
 pp.pplproblems.com
 pppppcha.webcindario.com
 pprincparts.com
@@ -28428,7 +28420,6 @@ pulse-analytics-beacon.reutersmedia.net
 pulse-energy.co.uk
 pulsepublishing.com.au
 pulsewebhost.com
-puma.planeta51.com
 pumpchasersclothing.bid
 punch.race.sk
 puncturewala.in
@@ -28490,7 +28481,6 @@ pussl59.com
 pussl60.com
 pussl6.com
 pussyhunters.ru
-pussysaga.com
 pustulate-twine.000webhostapp.com
 putlockermovie.net
 putrr11.com
@@ -30010,7 +30000,6 @@ ruan88.com
 ruangkonspirasi.com
 ruangmakna.net
 rubickgames.com
-rubiconproject.com
 rubinbashir.net
 rubinhostseo.com
 ruby-files.com
@@ -30123,6 +30112,7 @@ s1.dapenti.com
 s1.dugoogle.com
 s1.hiapk.com
 s1magnettvcom.maynemyltf.netdna-cdn.com
+s1.qiqutt.com
 s1r.tut.by
 s1w.co
 s1.wesiedu.com
@@ -31243,7 +31233,6 @@ sewamainananak.co.id
 sewardweb.com
 sexeoptimal.com
 sexfromindia.com
-sexgangsters.com
 sex-interactive.com
 sexitnow.com
 sexmotors.bid
@@ -31275,7 +31264,6 @@ sgg.southcn.com
 sgikjkjftfg.webstarterz.com
 sgmoneycollections.com
 sgpes.trt11.jus.br
-sgreen.erne.co
 sg-sst.org
 sguoikjkgh.webstarterz.com
 sgx3.cloudhost.id
@@ -32887,8 +32875,6 @@ stat.funshion.net
 stat.hudong.com
 static2.ero2you.com
 static2.rutracker.org
-static.365inews.com
-static.ads.crakmedia.com
 static-cn.plista.com
 static.ichehome.com
 static.kinghost.com
@@ -33971,7 +33957,6 @@ tablelegs.ca
 tablet.gutterhelment.net
 tabletit.fi
 tabloidmitra.com
-taboola.com
 taboolatinas.com
 tabwl.com
 tachedebeaute.be
@@ -36840,7 +36825,6 @@ vbvserviios.com
 vc5xu3kmepes87a1jaos.maherstcottage.com.au
 vcbqxu.com
 vccd.cn
-vcdn.adnxs.com
 vcdssaj.com
 vcebhopal.ac.in
 vcfs6ip5h6.bid
@@ -38433,7 +38417,6 @@ worldpack.in
 world-people.net
 worldsofhacks.com
 worldsoftwaredownloads.com
-worldssl.net
 worldteamart.com
 worldtools.cc
 worldviewsproject.com
@@ -38525,6 +38508,7 @@ wu65.com
 wuaufucps.fgppchg.fgpp.com
 wu-hackclan.eu
 wuhuyuhua.com
+wuliao.chzsport.cn
 wuliao.epro.sogou.com
 wuliao.juqingba.cn
 wunderloop.aol.co.uk
@@ -40050,7 +40034,6 @@ zixunxiu.com
 ziyvea.com
 zizcy.com
 zizicell.id
-zizu.ee
 zjbhkdzg.tk
 zjgswtl.com
 zjhim.com
