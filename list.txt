@@ -996,6 +996,7 @@ ads.zillow.com
 ads.zynga.com
 adtest.theonion.com
 adtg.widerplanet.com
+ad.theepochtimes.com
 ad.thisav.com
 adtidy.net
 adtime.ru
@@ -2040,6 +2041,7 @@ analytics.atomiconline.com
 analytics.avanser.com.au
 analytics.aweber.com
 analytics.belgacom.be
+analytics.bhaskar.com
 analytics.bigcommerce.com
 analytics.bloomberg.com
 analytics.brandcrumb.com
@@ -3393,7 +3395,7 @@ austroflamm.by
 ausubelinstituto.edu.mx
 au-supports.com
 ausweb1.streamline-servers.com
-a.ut8d.com
+a.ut8d8.com
 auth-account-service.com
 auth.ameli.assurance.maladie.moncompte.clients.crustiforme.net
 auth-appleid-user.com
@@ -10512,7 +10514,6 @@ divyanshunayak.com
 divyashaktipeeth.org
 diwangjt.com
 dixwrvg.planeta2studios.com
-diyijs.duapp.com
 dizinar.ir
 dizixdllzznrf.cloudfront.net
 dizyhackz.com
@@ -22775,7 +22776,6 @@ mamypos.com
 man1234.com
 man2jakarta.sch.id
 manadajid.net
-manads.static.olcdn.com
 manaempreende.com.br
 manage-4a7bq2r26ad2bq2e2.drqatanasamanen.com
 manage-accountinfo.com
@@ -23429,6 +23429,7 @@ mengchengbao.com
 menghuanzs.com
 mengmengdas.com
 mengpr.com
+mengyuanwei.com
 menloenergyllc.com
 mennber.sgx7k7cnu4qk6vp2w.gdn
 menotpleasure.ooo
@@ -24137,7 +24138,6 @@ moncompte.grouperf.com
 moncompte-mobile.gzero.com.mx
 mondayemployment.com
 monde-gourmandises.net
-mondeoeffect.rambler.ru
 mondialeacrilicos.com.br
 mondialisatincroissances.it
 monditomasks.co
