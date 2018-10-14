@@ -2063,6 +2063,7 @@ analytics.dev.springboardvideo.com
 analytics.digitouch.it
 analytics.disneyinternational.com
 analytics.dol.gr
+analytics.dvidshub.net
 analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
@@ -2074,6 +2075,7 @@ analytics.ettoredelnegro.pro
 analytics.fairfax.com.au
 analytics.favcy.com
 analytics.femalefirst.co.uk
+analytics.foresee.com
 analytics.freespee.com
 analytics.gameforge.de
 analytics.gazeta.pl
@@ -9263,6 +9265,7 @@ d2hcjk8asp3td7.cloudfront.net
 d2hiddpkp3wlza.cloudfront.net
 d2hit.com
 d2i54aseqwhx68.cloudfront.net
+d2ip7iv1l4ergv.cloudfront.net
 d2ipklohrie3lo.cloudfront.net
 d2is3w689nunba.cloudfront.net
 d2izezc8ujpkba.cloudfront.net
@@ -9397,6 +9400,7 @@ d3ax6xygyb5hn9.cloudfront.net
 d3b4x0ran5qs0c.cloudfront.net
 d3b75cfc88a9.com
 d3bvcf24wln03d.cloudfront.net
+d3c8l61zd5ltf8.cloudfront.net
 d3cesrg5igdcgt.cloudfront.net
 d3ciks47fhh9wv.cloudfront.net
 d3cknv5e7a99jg.cloudfront.net
@@ -9497,6 +9501,7 @@ d5c18469d17cb1d1.com
 d5em5plenp2k5.cloudfront.net
 d5k6iufjynyu8.cloudfront.net
 d5ou3dytze6uf.cloudfront.net
+d5pb47xzjz3fc.cloudfront.net
 d5pvnbpawsaav.cloudfront.net
 d5z42oph1suk.cloudfront.net
 d660441.u-telcom.net
@@ -10565,6 +10570,7 @@ dkg.ifeng.com
 dkj2m377b0yzw.cloudfront.net
 dkjasfdkfbawefhafhafjakejkegbawjgkjawgew.tk
 dklmgdmadrasha.edu.bd
+dkm6b5q0h53z4.cloudfront.net
 dkqapp.cn
 dkvdivdj.altervista.org
 dkwm.suwan.co.id
@@ -19583,6 +19589,7 @@ jazancci.org.sa
 jazeegroup.com
 jazzarrangingclass.com
 j.baminw.cn
+jbbath.cn
 jb.dianshu119.com
 jb.ecar168.cn
 jbflil.cn
@@ -19779,6 +19786,7 @@ jindier.com
 jindu179.com
 jingavot.com
 jingdayiyuan.com
+jingezhao.cn
 jinghuazhijia.com
 jinicettp.com
 jinriyunlian.com
@@ -23621,6 +23629,7 @@ mgscw.com
 mgsue.cn
 mgwcn.com
 mgwlock.com
+mh9dskj8jg.com
 mhackgfree.com
 mhacks.net
 mhcdqeigntxllkxy.com
