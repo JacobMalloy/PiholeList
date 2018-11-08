@@ -9737,6 +9737,7 @@ dashboard.stripe.verification.canowm.com
 dashbord-locked-acces-my.com
 dashet.com
 dash.prankvine.com
+dash.tmearn.com
 daskals.com
 daskm.com
 dasp.org.pk
@@ -9824,6 +9825,7 @@ dbc6p9txq35qt.cloudfront.net
 dbcdqp72lzmvj.cloudfront.net
 dbdoc-views.d3an1ght.com
 dbfshgwqr.000webhostapp.com
+dbiej.com
 dbissue.com
 dbjsbtaprntqertmkty.bid
 dbncp.com
@@ -22144,6 +22146,7 @@ logdev.openload.co
 log.flight.qunar.com
 logger.dailymotion.com
 logger.ivi.ru
+logger.kataweb.it
 logger.nerdwallet.com
 logger.rm.uol.com.br
 logger.snackly.co
@@ -34829,6 +34832,7 @@ tazozuatonline.com
 tbaludhiana.com
 tbaocdn.com
 tbaong.co
+tbenq.com
 t.beopinion.com
 tbe.tom.ru
 tbhomeinspection.com
