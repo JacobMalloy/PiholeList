@@ -3735,6 +3735,7 @@ baidujavascript.com
 baidujs.cnys.com
 baidulao.com
 baidu-union-js.chuimg.com
+baiduwapjs1.chinaiiss.com
 baiduyisheng.com
 baiduyoukualiyun.com
 baiduyubaidu.com
@@ -30847,6 +30848,7 @@ s0e3nwd7mhf45sghuds3.businessrulesanalysis.com
 s1-a1.dnvod.tv
 s1-a2.dnvod.tv
 s1-a3.dnvod.tv
+s1-a4.dnvod.tv
 s1.dapenti.com
 s1.dugoogle.com
 s1.hiapk.com
@@ -33519,10 +33521,12 @@ srv.mzcdn.com
 srv.searchassist.com
 srv.thespacereporter.com
 ss100shop.com
+ssa.1337x.st
 ssa.1337x.to
 ssaintander-serv1.com
 ssartpia.or.kr
 ssautoland.com
+ssa.x1337x.ws
 ssbo98omin.rr.nu
 ssc.api.bbc.com
 sscefsol.com
