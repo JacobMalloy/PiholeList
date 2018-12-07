@@ -22234,6 +22234,7 @@ log.aimtell.com
 logangmerch.us
 log.bitauto.com
 log.circle.com.ng
+log.cizion.com
 log.data.disney.com
 log.deutschegrammophon.com
 logdev.openload.co
@@ -33354,6 +33355,7 @@ speed.wikia.net
 speedyfiles.net
 speedyhosted.com
 speedyhub.com
+speee-ad.akamaized.net
 speeltuingeenhoven.nl
 speerperformance.com
 spelhacken.nl
@@ -40803,6 +40805,7 @@ yves10.square7.ch
 yvigoc1dulw7jtrufnas.maherstcottage.com.au
 yvpewdlid.com
 yvymaraey.org
+ywadf.cn
 ywbwsm.com
 ywjxsp168.cn
 ywrjgzs.com
@@ -41060,6 +41063,7 @@ zietop.cf
 zigoh.com
 ziheyuan.com
 zihotelsandtours.co.zw
+ziig.com.cn
 ziillowhouses.us
 ziiraat-subegiris.com
 zikdrop.top
