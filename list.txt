@@ -8301,6 +8301,7 @@ count.video.sina.com.cn
 count.yandeg.ru
 couponbuddy.s3.amazonaws.com
 couponcp-a.akamaihd.net
+couponcustomer.cpstatic.ch
 couponingiscool.com
 couponshop.pw
 couponsvc.com
@@ -9321,6 +9322,7 @@ d2fbkzyicji7c4.cloudfront.net
 d2fhjyz3dwdx87.cloudfront.net
 d2focgxak1cn74.cloudfront.net
 d2g4rjb98r20op.cloudfront.net
+d2g9nmtuil60cb.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2gfi8ctn6kki7.cloudfront.net
 d2ggw6du5pulet.cloudfront.net
@@ -9450,6 +9452,7 @@ d366o5iwycvbsk.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d36wtdrdo22bqa.cloudfront.net
+d37dzu39aqhuxu.cloudfront.net
 d37kzqe5knnh6t.cloudfront.net
 d37s9vd5t6mov7.cloudfront.net
 d38dc3e7.ngrok.io
@@ -19572,6 +19575,7 @@ iyiauauissa.iiyioapyiyiu.xyz
 iyitakipci.com
 iykelinkx.ml
 iyuurrfdfd.gobnd.com
+iyygzs.com
 iz682noju02ye5.com
 izhkomstroy.ru
 i.zhuoyaju.com
@@ -23403,6 +23407,9 @@ mcusvl.gq
 mcvapes.co.za
 mcvsewse.esy.es
 mc.weather.com.cn
+mc.webvisor.com
+mc.webvisor.org
+mc.webvisor.ru
 mc.yandex.ru
 m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
 md0z4dh.com
@@ -24197,6 +24204,7 @@ mmroom.in
 mms3.com
 mms.al.com
 mmsbeauty.com
+mms.blick.ch
 mms.cbslocal.com
 mms.cleveland.com
 mms.cnn.com
@@ -30852,6 +30860,7 @@ rundll.co.in
 runetki.joyreactor.ru
 runews-time.xyz
 runiman.com
+runmewivel.com
 runngineszservices.co.uk
 runvtkk.tel.lv
 runzemaoye.com
@@ -33797,6 +33806,7 @@ statistic.qzone.qq.com
 statistics.aldi-international.com
 statistics.crowdynews.com
 statistics.klicktel.de
+statistics.raiffeisen.ch
 statistics.rbi-nl.com
 statistics.riskommunal.net
 statistics.tattermedia.com
@@ -33834,6 +33844,7 @@ stats.aplus.com
 stats.articlesbase.com
 stats.asp24.pl
 stats.autohome.com.cn
+stats.autoscout24.ch
 stats.av.de
 stats.avg.com
 stats.badoostats.com
@@ -34837,6 +34848,7 @@ systttem.ddns.net
 sytcyf.com
 sytsr.com
 sytz1288.com
+syxsa.cn
 szamla-telekom.telekomfiok.belepes.eedgetourtravel.net
 szapp22.cc
 szdamuzhi.com
@@ -36926,6 +36938,7 @@ tvthsvxbbbfwcyldo.com
 tvundercover.com
 t.wayfair.com
 twceypv.com
+twch.20min.ch
 tweakcanalstrike.000webhostapp.com
 tweakingtricks.com
 tweet818k.2fh.co
@@ -38544,6 +38557,7 @@ vvnna.com
 vvocm.com
 v-voice.com
 vvpcdke43x.com
+vv.ricardo.ch
 vvsbolaget.se
 vvvalki.000webhostapp.com
 vvv.ieduw.com
@@ -40152,6 +40166,7 @@ xhaiu.com
 xhbqczl.com
 xhct66.com
 xhdz.net
+xhera.cn
 xhmrv.com
 xhqsysp.com
 xhsxgmt.cn
