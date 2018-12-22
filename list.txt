@@ -6310,6 +6310,7 @@ cdn.adultsadv.com
 cdn.advertserve.com
 cdn-analytics.ladmedia.fr
 cdnbd.com
+cdnbigdata.azureedge.net
 cdneurope.com
 cdn.investingchannel.com
 cdnny.com
@@ -12636,6 +12637,7 @@ events.air.tv
 events.antenna.is
 events.apester.com
 events.bounceexchange.com
+events.chaordicsystems.com
 events-coin-clem.000webhostapp.com
 events-egiftsent.000webhostapp.com
 eventsguru.ml
@@ -40746,6 +40748,7 @@ yongkang6.com
 yoo9ier.top
 yoo.londonbinanddumpsterrental.ca
 yootube.com
+yootui19999.com
 yoredi.com
 yorilada.com
 yorkerwis.ga
