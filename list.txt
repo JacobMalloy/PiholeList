@@ -139,6 +139,7 @@ abcdmorgans.ml
 abc.douguo.com
 abcgrafiketiket.com
 abc.hkepc.com
+abc.hkepc.net
 abcj.dooccn.com
 abcmlm.com
 abcommunication.it
@@ -1422,6 +1423,7 @@ ai.satevis.us
 a.i-sgcm.com
 aishake.cn
 aishang.bid
+aishangcan.com
 aishiguolong.com
 aishowbger.com
 aishwaryarai.fr
@@ -12194,6 +12196,7 @@ enap-rg.org
 en.avatarstinc.com
 en.certomni.net
 encoderfarmced-stats-ns.servicebus.windows.net
+encoderfarmstatsnew.servicebus.windows.net
 encoding.8openid.assoc.handle.usflexopenid.claimed.id.asdwe21a1e23few143ew.wt154t23dg1sd.2g1456er1.241as53321.30.asrrr21sa.0d1w5421.sa1e54t21y.0er1iy.laduscha.com.au
 encoding.ovh
 encuentrodemusicos.com
@@ -41032,6 +41035,7 @@ yowhatsappapk.com
 yowhatsappapk.net
 yoxus.cn
 yoyoykamphora.com
+ypa.focusoftime.com
 ypdr.org
 ypgg.kr
 ypmate.com
