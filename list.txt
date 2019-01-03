@@ -9182,6 +9182,7 @@ d17ialcoirdn28.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
 d17rlarvg2khuc.cloudfront.net
 d1852uckuj7o1j.cloudfront.net
+d18p8z0ptb8qab.cloudfront.net
 d19182vyfoustz.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d194f913ee63.com
@@ -28144,6 +28145,7 @@ ping.aclst.com
 pingback.sogou.com
 pingbi.diudou.com
 ping.buto.tv
+ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping.hellobar.com
 ping.hungama.com
@@ -33593,6 +33595,7 @@ specialistups.com
 specializeds.cf
 special-promo.com
 specisez.com
+spectram.pro
 spectrocoinau.com
 spectrocoinbtc.com
 spectruminfotech.co.in
@@ -34678,7 +34681,6 @@ super-cheats.com
 superdon.h16.ru
 super-download.com
 superfastcdn.com
-superfastcomputer.ru
 superfishaquatics.com.au
 superfish.com
 superfreehacks.com
@@ -36940,6 +36942,7 @@ trowel.twitch.tv
 troysumpter.com
 tr.price.com.hk
 tr-qnbfinansbank-enpara.com
+tr.snapchat.com
 tr-subesi-bireysel-teb.com
 trtkp.ru
 trtrtmattchhhviewss.000webhostapp.com
