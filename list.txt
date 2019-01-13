@@ -2066,6 +2066,7 @@ analytics.anvato.net
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.artirix.com
+analytics.arz.at
 analytics.atomiconline.com
 analytics.avanser.com.au
 analytics.aweber.com
@@ -6971,6 +6972,7 @@ chicken18.com
 chicken2go.co.uk
 chickolith.com
 chidir.com
+chidsimp.com
 chiem78.000webhostapp.com
 chiffrechristianlotlefaby.net
 chigogroups.com.ng
@@ -9316,6 +9318,7 @@ d1vrcwxei1aj0g.cloudfront.net
 d1vwpe7grtcv9d.cloudfront.net
 d1wi563t0137vz.cloudfront.net
 d1wjj8n9m51z7v.cloudfront.net
+d1wjz6mrey9f5v.cloudfront.net
 d1wscoizcbxzhp.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1xslst46151d.cloudfront.net
@@ -16088,6 +16091,7 @@ g.msn.com
 gmter.com
 gmyvids.com
 gnadenhofwedemark.de
+gnar.grammarly.com
 gnbzonaseguraweb.com
 gneibvpd.com
 gnezdo.ru
@@ -30518,6 +30522,7 @@ resource.baomihua.com
 resourcecamp.myjino.ru
 resourcesubmitter.com
 responsegenie.com
+response.pure360.com
 respro.softhofhosting.com
 res.rbl.ms
 ressys.co.uk
@@ -34058,6 +34063,7 @@ stat.rum.cdnvideo.ru
 stat.russianfood.com
 stat.ruvr.ru
 stats01.20min.ch
+stats02.topix.com
 stats1.tune.pk
 stats1x1.kapaza.be
 stats2.lightningcast.net
@@ -39058,6 +39064,7 @@ wcstockholm.com
 wda.ydt.com.cn
 wdbbpuks.fgppchg.fgpp.com
 wdc2sf1sgonsel5lyjmc.bid
+wdeie.com
 wdhubbs.us
 wdm.map24.com
 wdzsb.com.cn
@@ -40534,6 +40541,7 @@ xmsqz.com
 xmtsyg.com
 xn--12c3bfbjn4brbb4e7a5cvab3gsn.com
 xn--12c4bfj2hza1ioch.com
+xn6ffc.com
 xn--acikdenz-denzsube-nvc.com
 xn--b3cvfj2hdufn6s9b.com
 xn--bl-uia7e5a.com
@@ -40862,6 +40870,7 @@ yeayourcan.com
 yeaysjbfeytrky.com
 yebadu.com
 yee0uexvl6fdfivlrbmr.mbservicesyorkshire.co.uk
+yefu365.com
 yeigrjncmjwsfmvjmr.us
 yekmas.tripod.com
 yekna.com
@@ -41330,6 +41339,7 @@ zeichenbuero-allmer.at
 zeliatech.com
 zelienopleprattsville.com
 zelltek.co.jp
+zencu.com.cn
 zenffs.cn
 zengolese.com
 zenitchampion.cn
@@ -41667,6 +41677,7 @@ zxadhosting.it
 zxb918.com
 zxciuniqhweizsds.com
 zxhymh.com
+zxin131.cn
 zxjjzx.com
 zx-jsp.com
 zxl1102.000webhostapp.com
