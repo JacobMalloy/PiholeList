@@ -2132,6 +2132,7 @@ analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
+analytics.pinpoll.com
 analytics.plex.tv
 analytics.posttv.com
 analytics.prezly.com
@@ -4246,6 +4247,7 @@ bdcelectricalservices.com
 bdcode1.haodou.com
 bdcode.2345.com
 bdcode.35d1.com
+bdcode.qinglm.com
 bdcode.youke.com
 bd-dlstributors.com
 bddm.58news.org
@@ -9887,6 +9889,7 @@ dbs-237687635.000webhostapp.com
 dbsa-dream.com
 dbs.autolatest.ro
 dbsbanklimited.com
+d.bsheute.de
 dbsverifica.net
 d.businessinsider.com
 dbvault.net
@@ -20658,6 +20661,7 @@ kdbrj0psml.bradul.creatory.org
 kddtri.cn
 kde.nfcfhosting.com
 kdfhfh.idol-s.com
+kdieu.com
 kdmkauchahynhrs.ru
 kdoraraq.com
 kdr6jmomc5yuoqhv9x95.maherstcottage.com.au
@@ -23814,6 +23818,7 @@ metrics.el-mundo.net
 metrics.extremetech.com
 metrics.feedroom.com
 metrics.loomia.com
+metrics.n-tv.de
 metrics.scribblelive.com
 metrics.seenon.com
 metrics.sonymusicd2c.com
@@ -23828,7 +23833,6 @@ metrigo.zalan.do
 metrixlablw.customers.luna.net
 metroenterpriseusa.com
 metropolemotors.com
-met.vgwort.de
 metzgerconsulting.com
 meuapp-30horas.com.br
 meumimo.net.br
@@ -29467,6 +29471,7 @@ qflwh.cn
 qfqldcqcmp.im
 qfsstesting.com
 qfupry.com
+qgaot.com
 qgmmrvbqwlouglqggi.com
 qgsruo.com
 qgss8.com
@@ -36378,6 +36383,7 @@ tracker.vreveal.com
 tracker.washtimes.com
 tracker.winload.de
 tracker.wordstream.com
+track.express.de
 trackfox2.com
 trackfox.com
 track.ft.com
