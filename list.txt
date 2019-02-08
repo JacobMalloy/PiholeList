@@ -9069,6 +9069,7 @@ d158nafix8anfs.cloudfront.net
 d15cjcet1djbmv.cloudfront.net
 d15gt9gwxw5wu0.cloudfront.net
 d1.5h.com
+d15kdpgjg3unno.cloudfront.net
 d15r06k2ko210l.cloudfront.net
 d160mt023h8h3d.cloudfront.net
 d162nnmwf9bggr.cloudfront.net
@@ -9381,6 +9382,7 @@ d2zc7uilftxw71.cloudfront.net
 d2zjd612oq0w0l.cloudfront.net
 d300c7cd7d0747f5e21.com
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+d30gt5larl1k8h.cloudfront.net
 d30s0lx1onfwyh.cloudfront.net
 d30zrwt3s044zr.cloudfront.net
 d3135glefggiep.cloudfront.net
@@ -11470,6 +11472,7 @@ e09f3e4ceda.com
 e1-rayan.com
 e2bworld.com
 e2cb3799.ngrok.io
+e2e.mashable.com
 e2i.com.br
 e2parts.com
 e347bb14dc71778.com
@@ -12563,6 +12566,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.secureserver.net
 events.snacktv.de
 events.turbosquid.com
 events.whisk.com
@@ -16185,7 +16189,6 @@ gratuitpsncodes.com
 gratuitxboxgold.com
 gravdee.com
 graveleautp.fr
-gravityrd-services.com
 grazyfiles.com
 greas77.000webhostapp.com
 grease.yodyiam.com
@@ -20625,6 +20628,7 @@ kfd3sm2c.com
 kfluoa.com
 kfzedelhjtyw.com
 kfz-ross.de
+kg.aws.mashable.com
 kgcjgsa8.net
 kge91.com
 kgkpuz.com
@@ -26070,6 +26074,7 @@ odieamaka.000webhostapp.com
 odindownload.com
 odin.goo.mx
 odinkod.ru
+odin.mic.com
 odiserve.com
 odolia.usa.cc
 odufh13vjw.com
@@ -34877,6 +34882,7 @@ tc600.com
 tc.airfrance.com
 tc-avrora38.ru
 t.cfjump.com
+tcheck.outbrainimg.com
 tchep.com
 tchetorkin.ru
 t.cinemablend.com
@@ -39309,6 +39315,7 @@ worldclassdropbox.chyenterprise.com
 worldcred.com.br
 worldcup2014streams.com
 worldfilmdownloads.com
+worldgravity.com
 world-hack.com
 worldhack.net
 worldinform.ru
