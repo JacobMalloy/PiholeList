@@ -28,7 +28,6 @@ a1.firstgw.com
 a1.gexing.me
 a1hacks.com
 a1.juzih.com
-a1.lrytas.lt
 a1.mingyihui.net
 a1.qqjay.com
 a1sec.com.au
@@ -1916,6 +1915,7 @@ ameli-scvs.net
 ameliservc-remb.com
 amell.ir
 amenop.com
+amensh.cn
 amerarani.com
 americanascliente.giize.com
 americanas-com-br-eletroeletronicos-desconto.cuccfree.com
@@ -4682,7 +4682,6 @@ bigbangbangla.com
 bigbatman.bid
 bigbazzarbd.com
 bigbos.top
-bigboy.eurogamer.net
 bigdaddyjapan.com
 bigfineads.com
 biggeorge.com
@@ -9103,6 +9102,7 @@ d19uh5b0umbjrr.cloudfront.net
 d1a6pzosbglc5p.cloudfront.net
 d1ade4ciw4bqyc.cloudfront.net
 d1aezk8tun0dhm.cloudfront.net
+d1af165twk0zgn.cloudfront.net
 d1afet533lf7zs.cloudfront.net
 d1ar5xirbydtuc.cloudfront.net
 d1auwh1li83eb9.cloudfront.net
@@ -15493,6 +15493,7 @@ germnertx.com
 gerozetace.com
 gersairg.net
 gershonconsulting.com
+gerunsenbo.cn
 gervaisdetox.gq
 geryi.com
 gestaconta.com
@@ -18612,6 +18613,7 @@ imajinalberta.com
 imalaseko.win.co.tz
 imamby.ru
 imamlarburada.bid
+imanchu.cn
 imanisfan.com
 im.aol.de
 imauli.cf
@@ -25714,6 +25716,7 @@ nkeo.top
 nklwgj.com
 nkmosevac.ba
 nkmsite.com
+nkrwxf.com
 nkscdn.com
 nktwpc.com
 nkxicfqchl.pw
@@ -28189,7 +28192,6 @@ pmvmaltings.com
 pmycountd.ga
 pncbank.averifier.com
 pnc.com-inet-truememberent-iscaddetour.newchapterpsychology.com.au
-pndelfast.com
 pnel1718.at.ua
 pneusdiretododistribuidor.com.br
 pneutechproducts.com
