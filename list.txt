@@ -969,6 +969,8 @@ ads-team-safety.esy.es
 adstil.indiatimes.com
 ads.tlvmedia.com
 adstock.ru
+ads-tracking.beopinion.com
+ads-tracking.beop.io
 ads.tradeads.eu
 ads.trademe.co.nz
 ads.tremorhub.com
@@ -7568,6 +7570,7 @@ cnhbxx.com
 cni58.com
 cnil.links-lab.fr
 cninin.com
+cniuv.com
 cnkok.com
 cn-lushan.com
 cnn-africa.co
@@ -20099,6 +20102,7 @@ jianyundc.com
 jiaoben.eastday.com
 jiaoben.ganji.cn
 jiaoben.jucanw.com
+jiaoben.webkaka.com
 jiaofulin.cn
 jiayuins.com
 jibn12.jintang114.org
@@ -31631,6 +31635,8 @@ sbcgloab.esy.es
 sbcworld.ch
 sbdimagenes.com.ar
 sbenx.com
+s.beopinion.com
+s.beop.io
 sbergonzi.org
 sberrf.xyz
 sbethot.com
